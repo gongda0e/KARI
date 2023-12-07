@@ -1,5 +1,5 @@
 # Activity Grammars for Temporal Action Segmentation (NeurIPS 2023)
-### [Project Page](http://cvlab.postech.ac.kr/research/KARI/) | [Paper](https://openreview.net/forum?id=oOXZ5JEjPb)
+### [Project Page](https://jsleeo424.github.io/KARI/) | [Paper](https://openreview.net/forum?id=oOXZ5JEjPb)
 This repository contains the official source code and data for our paper:
 
 > [Activity Grammars for Temporal Action Segmentation](https://openreview.net/forum?id=oOXZ5JEjPb)  
