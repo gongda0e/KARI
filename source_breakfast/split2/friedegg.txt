@@ -1,0 +1,26 @@
+* SIL pour_oil crack_egg fry_egg put_egg2plate SIL #
+* SIL pour_oil crack_egg fry_egg take_plate put_egg2plate SIL #
+* SIL pour_oil crack_egg add_saltnpepper take_plate fry_egg put_egg2plate take_plate SIL #
+* SIL pour_oil take_eggs take_plate crack_egg fry_egg add_saltnpepper fry_egg put_egg2plate SIL #
+* SIL butter_pan crack_egg add_saltnpepper fry_egg put_egg2plate SIL #
+* SIL pour_oil crack_egg fry_egg add_saltnpepper fry_egg take_plate fry_egg put_egg2plate SIL #
+* SIL crack_egg fry_egg pour_oil fry_egg pour_oil fry_egg put_egg2plate SIL #
+* SIL pour_oil crack_egg fry_egg add_saltnpepper fry_egg put_egg2plate SIL #
+* SIL butter_pan crack_egg add_saltnpepper fry_egg take_plate put_egg2plate SIL #
+* SIL crack_egg take_plate fry_egg put_egg2plate SIL #
+* SIL crack_egg pour_oil fry_egg take_plate put_egg2plate SIL #
+* SIL crack_egg fry_egg take_plate put_egg2plate SIL #
+* SIL crack_egg fry_egg put_egg2plate SIL #
+* SIL butter_pan crack_egg fry_egg put_egg2plate SIL #
+* SIL take_eggs butter_pan crack_egg add_saltnpepper take_plate fry_egg put_egg2plate SIL #
+* SIL pour_oil crack_egg add_saltnpepper fry_egg put_egg2plate SIL #
+* SIL pour_oil crack_egg add_saltnpepper fry_egg take_plate put_egg2plate SIL #
+* SIL crack_egg fry_egg add_saltnpepper take_plate put_egg2plate SIL #
+* SIL butter_pan crack_egg fry_egg SIL #
+* SIL butter_pan crack_egg add_saltnpepper fry_egg add_saltnpepper fry_egg put_egg2plate SIL #
+* SIL butter_pan crack_egg fry_egg add_saltnpepper take_plate put_egg2plate SIL #
+* SIL butter_pan crack_egg fry_egg add_saltnpepper fry_egg put_egg2plate SIL #
+* SIL crack_egg add_saltnpepper fry_egg put_egg2plate SIL #
+* SIL butter_pan crack_egg take_plate add_saltnpepper fry_egg put_egg2plate SIL #
+* SIL crack_egg add_saltnpepper fry_egg take_plate fry_egg put_egg2plate SIL #
+* SIL crack_egg add_saltnpepper take_plate fry_egg put_egg2plate SIL #

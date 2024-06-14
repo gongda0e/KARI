@@ -1,0 +1,38 @@
+* SIL take_knife cut_fruit take_bowl cut_fruit put_fruit2bowl cut_fruit peel_fruit cut_fruit put_fruit2bowl stir_fruit SIL #
+* SIL cut_fruit put_fruit2bowl peel_fruit cut_fruit put_fruit2bowl cut_fruit peel_fruit cut_fruit put_fruit2bowl SIL #
+* SIL take_plate take_knife peel_fruit take_bowl cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl SIL #
+* SIL take_plate peel_fruit cut_fruit peel_fruit cut_fruit SIL #
+* SIL take_bowl take_knife peel_fruit cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl peel_fruit cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl SIL #
+* SIL take_bowl peel_fruit cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl stir_fruit SIL #
+* SIL take_bowl peel_fruit cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl peel_fruit cut_fruit put_fruit2bowl stir_fruit SIL #
+* SIL take_bowl cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl SIL #
+* SIL take_knife peel_fruit cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl SIL #
+* SIL cut_fruit peel_fruit cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl SIL #
+* SIL peel_fruit take_bowl cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl SIL #
+* SIL cut_fruit peel_fruit take_knife cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl SIL #
+* SIL peel_fruit cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl SIL #
+* SIL cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl peel_fruit cut_fruit put_fruit2bowl SIL #
+* SIL peel_fruit cut_fruit put_fruit2bowl peel_fruit cut_fruit put_fruit2bowl peel_fruit cut_fruit put_fruit2bowl SIL #
+* SIL peel_fruit cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl SIL #
+* SIL take_knife peel_fruit cut_fruit put_fruit2bowl cut_fruit SIL #
+* SIL cut_fruit take_bowl put_fruit2bowl SIL #
+* SIL cut_fruit peel_fruit cut_fruit peel_fruit cut_fruit take_bowl put_fruit2bowl SIL #
+* SIL cut_fruit take_bowl put_fruit2bowl cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl stir_fruit SIL #
+* SIL take_plate cut_fruit peel_fruit cut_fruit take_bowl put_fruit2bowl stir_fruit SIL #
+* SIL cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl SIL #
+* SIL cut_fruit peel_fruit cut_fruit put_fruit2bowl cut_fruit peel_fruit cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl SIL #
+* SIL peel_fruit cut_fruit peel_fruit cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl cut_fruit peel_fruit cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl stir_fruit SIL #
+* SIL cut_fruit peel_fruit cut_fruit put_fruit2bowl cut_fruit peel_fruit cut_fruit put_fruit2bowl SIL #
+* SIL take_plate peel_fruit cut_fruit take_bowl put_fruit2bowl SIL #
+* SIL take_plate cut_fruit take_bowl put_fruit2bowl cut_fruit peel_fruit cut_fruit put_fruit2bowl SIL #
+* SIL take_plate take_knife cut_fruit peel_fruit cut_fruit SIL #
+* SIL take_plate cut_fruit SIL #
+* SIL cut_fruit peel_fruit cut_fruit SIL #
+* SIL take_plate take_bowl cut_fruit peel_fruit cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl stir_fruit SIL #
+* SIL take_plate take_bowl cut_fruit put_fruit2bowl cut_fruit peel_fruit cut_fruit put_fruit2bowl SIL #
+* SIL take_bowl peel_fruit cut_fruit put_fruit2bowl cut_fruit peel_fruit cut_fruit peel_fruit cut_fruit put_fruit2bowl stir_fruit SIL #
+* SIL take_knife take_plate cut_fruit take_bowl put_fruit2bowl cut_fruit peel_fruit cut_fruit put_fruit2bowl SIL #
+* SIL take_bowl cut_fruit put_fruit2bowl cut_fruit peel_fruit put_fruit2bowl peel_fruit cut_fruit put_fruit2bowl SIL #
+* SIL cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl peel_fruit cut_fruit put_fruit2bowl cut_fruit put_fruit2bowl SIL #
+* SIL peel_fruit cut_fruit take_bowl put_fruit2bowl SIL #
+* SIL cut_fruit peel_fruit put_fruit2bowl peel_fruit put_fruit2bowl peel_fruit put_fruit2bowl peel_fruit cut_fruit put_fruit2bowl SIL #

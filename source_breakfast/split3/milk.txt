@@ -1,0 +1,11 @@
+* SIL take_cup spoon_powder pour_milk stir_milk SIL #
+* SIL spoon_powder pour_milk stir_milk SIL #
+* SIL take_cup spoon_powder pour_milk stir_milk pour_milk SIL #
+* SIL take_cup spoon_powder pour_milk SIL #
+* SIL pour_milk spoon_powder stir_milk SIL #
+* SIL spoon_powder pour_milk stir_milk pour_milk SIL #
+* SIL take_cup spoon_powder pour_milk stir_milk pour_milk stir_milk SIL #
+* SIL take_cup pour_milk spoon_powder SIL #
+* SIL pour_milk spoon_powder SIL #
+* SIL pour_milk spoon_powder stir_milk pour_milk stir_milk SIL #
+* SIL spoon_powder pour_milk stir_milk spoon_powder stir_milk SIL #

@@ -1,0 +1,8 @@
+* SIL take_cup add_teabag pour_water SIL #
+* SIL add_teabag pour_water SIL #
+* SIL take_cup pour_water add_teabag SIL #
+* SIL pour_water add_teabag SIL #
+* SIL take_cup add_teabag pour_water spoon_sugar stir_tea SIL #
+* SIL add_teabag pour_water spoon_sugar stir_tea SIL #
+* SIL take_cup add_teabag pour_water spoon_sugar SIL #
+* SIL take_cup pour_water add_teabag pour_sugar SIL #

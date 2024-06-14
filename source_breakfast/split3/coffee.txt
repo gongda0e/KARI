@@ -1,0 +1,11 @@
+* SIL take_cup pour_coffee pour_milk SIL #
+* SIL take_cup pour_coffee pour_sugar pour_milk SIL #
+* SIL take_cup pour_coffee pour_milk pour_sugar SIL #
+* SIL pour_coffee SIL #
+* SIL take_cup pour_coffee SIL #
+* SIL pour_coffee pour_milk SIL #
+* SIL take_cup pour_coffee pour_milk spoon_sugar stir_coffee SIL #
+* SIL take_cup pour_coffee pour_milk pour_sugar stir_coffee SIL #
+* SIL pour_coffee pour_milk spoon_sugar stir_coffee SIL #
+* SIL pour_coffee pour_sugar pour_milk stir_coffee SIL #
+* SIL take_cup pour_coffee spoon_sugar pour_milk stir_coffee SIL #

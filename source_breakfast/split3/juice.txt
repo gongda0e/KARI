@@ -1,0 +1,21 @@
+* SIL take_plate cut_orange take_squeezer squeeze_orange pour_juice squeeze_orange pour_juice SIL #
+* SIL take_glass take_knife cut_orange take_squeezer squeeze_orange pour_juice SIL #
+* SIL take_plate take_knife cut_orange squeeze_orange take_glass pour_juice SIL #
+* SIL take_knife cut_orange squeeze_orange take_glass pour_juice SIL #
+* SIL take_squeezer take_glass cut_orange squeeze_orange pour_juice SIL #
+* SIL take_squeezer cut_orange squeeze_orange take_glass pour_juice SIL #
+* SIL take_glass take_plate cut_orange take_squeezer squeeze_orange pour_juice SIL #
+* SIL cut_orange take_glass take_squeezer squeeze_orange pour_juice SIL #
+* SIL take_knife cut_orange squeeze_orange pour_juice squeeze_orange pour_juice squeeze_orange pour_juice squeeze_orange pour_juice SIL #
+* SIL take_glass cut_orange squeeze_orange pour_juice SIL #
+* SIL take_glass cut_orange squeeze_orange pour_juice squeeze_orange pour_juice squeeze_orange pour_juice squeeze_orange pour_juice squeeze_orange SIL #
+* SIL cut_orange squeeze_orange take_glass pour_juice SIL #
+* SIL squeeze_orange take_glass pour_juice SIL #
+* SIL squeeze_orange pour_juice SIL #
+* SIL cut_orange squeeze_orange pour_juice SIL #
+* SIL cut_orange take_squeezer squeeze_orange take_glass pour_juice SIL #
+* SIL take_plate cut_orange squeeze_orange take_glass pour_juice SIL #
+* SIL take_plate take_glass cut_orange take_squeezer squeeze_orange pour_juice SIL #
+* SIL take_plate take_knife cut_orange take_squeezer squeeze_orange take_glass pour_juice SIL #
+* SIL take_plate cut_orange take_squeezer squeeze_orange take_glass pour_juice SIL #
+* SIL cut_orange squeeze_orange take_glass pour_juice squeeze_orange pour_juice SIL #

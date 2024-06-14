@@ -1,0 +1,31 @@
+* SIL take_bowl crack_egg spoon_flour pour_milk stir_dough pour_oil pour_dough2pan fry_pancake take_plate put_pancake2plate SIL #
+* SIL crack_egg stir_dough spoon_flour pour_milk stir_dough pour_dough2pan fry_pancake take_plate SIL #
+* SIL crack_egg spoon_flour pour_milk stir_dough pour_dough2pan fry_pancake put_pancake2plate SIL #
+* SIL crack_egg spoon_flour stir_dough pour_milk stir_dough pour_dough2pan fry_pancake take_plate put_pancake2plate SIL #
+* SIL crack_egg spoon_flour pour_milk stir_dough pour_dough2pan fry_pancake take_plate SIL #
+* SIL spoon_flour crack_egg stir_dough pour_milk stir_dough pour_dough2pan fry_pancake pour_oil fry_pancake take_plate put_pancake2plate SIL #
+* SIL crack_egg spoon_flour pour_milk stir_dough pour_oil stir_dough pour_dough2pan fry_pancake take_plate put_pancake2plate SIL #
+* SIL spoon_flour butter_pan pour_milk crack_egg stir_dough pour_dough2pan fry_pancake take_plate put_pancake2plate SIL #
+* SIL crack_egg pour_flour pour_milk stir_dough pour_dough2pan fry_pancake put_pancake2plate SIL #
+* SIL butter_pan crack_egg pour_flour pour_milk stir_dough pour_flour stir_dough pour_dough2pan fry_pancake take_plate put_pancake2plate SIL #
+* SIL crack_egg spoon_flour pour_milk stir_dough spoon_flour stir_dough pour_dough2pan fry_pancake take_plate put_pancake2plate SIL #
+* SIL crack_egg spoon_flour pour_milk stir_dough pour_oil pour_dough2pan fry_pancake take_plate put_pancake2plate SIL #
+* SIL take_bowl crack_egg spoon_flour pour_milk butter_pan stir_dough pour_dough2pan fry_pancake take_plate put_pancake2plate SIL #
+* SIL spoon_flour crack_egg pour_milk stir_dough spoon_flour stir_dough butter_pan pour_dough2pan fry_pancake take_plate fry_pancake put_pancake2plate SIL #
+* SIL spoon_flour crack_egg pour_milk stir_dough pour_oil pour_dough2pan fry_pancake take_plate put_pancake2plate SIL #
+* SIL take_bowl take_eggs crack_egg spoon_flour pour_milk stir_dough pour_oil pour_dough2pan fry_pancake take_plate put_pancake2plate SIL #
+* SIL crack_egg spoon_flour pour_milk stir_dough pour_milk stir_dough pour_oil pour_dough2pan fry_pancake take_plate put_pancake2plate SIL #
+* SIL crack_egg pour_milk stir_dough pour_flour stir_dough pour_flour stir_dough pour_dough2pan fry_pancake take_plate fry_pancake put_pancake2plate SIL #
+* SIL crack_egg pour_milk pour_flour stir_dough pour_oil pour_dough2pan fry_pancake put_pancake2plate SIL #
+* SIL crack_egg spoon_flour pour_milk stir_dough butter_pan pour_dough2pan fry_pancake take_plate put_pancake2plate SIL #
+* SIL take_bowl spoon_flour pour_milk crack_egg stir_dough butter_pan pour_dough2pan fry_pancake SIL #
+* SIL take_bowl spoon_flour crack_egg pour_milk stir_dough butter_pan pour_dough2pan fry_pancake SIL #
+* SIL crack_egg stir_dough spoon_flour stir_dough pour_milk stir_dough butter_pan pour_dough2pan fry_pancake put_pancake2plate SIL #
+* SIL crack_egg spoon_flour pour_milk stir_dough pour_dough2pan take_plate fry_pancake put_pancake2plate SIL #
+* SIL crack_egg spoon_flour pour_milk stir_dough pour_dough2pan fry_pancake take_plate put_pancake2plate SIL #
+* SIL spoon_flour crack_egg pour_milk stir_dough butter_pan stir_dough pour_dough2pan fry_pancake take_plate fry_pancake put_pancake2plate SIL #
+* SIL crack_egg spoon_flour stir_dough pour_milk stir_dough pour_dough2pan fry_pancake take_plate fry_pancake put_pancake2plate SIL #
+* SIL crack_egg spoon_flour pour_milk butter_pan stir_dough pour_dough2pan fry_pancake take_plate put_pancake2plate SIL #
+* SIL crack_egg butter_pan spoon_flour stir_dough pour_milk stir_dough pour_dough2pan SIL #
+* SIL spoon_flour crack_egg pour_milk butter_pan stir_dough pour_dough2pan fry_pancake take_plate put_pancake2plate SIL #
+* SIL crack_egg spoon_flour pour_milk stir_dough butter_pan stir_dough pour_dough2pan take_plate fry_pancake put_pancake2plate SIL #

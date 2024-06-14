@@ -1,0 +1,10 @@
+0 scrambledegg
+1 friedegg
+2 juice
+3 coffee
+4 milk
+5 salat
+6 tea
+7 cereals
+8 sandwich
+9 pancake

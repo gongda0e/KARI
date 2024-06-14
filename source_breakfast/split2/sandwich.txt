@@ -1,0 +1,22 @@
+* SIL take_knife cut_bun take_butter smear_butter take_topping put_toppingOnTop take_topping put_toppingOnTop SIL #
+* SIL take_knife cut_bun smear_butter put_toppingOnTop put_bunTogether SIL #
+* SIL take_plate take_knife cut_bun take_topping smear_butter put_toppingOnTop put_bunTogether SIL #
+* SIL cut_bun take_topping smear_butter put_toppingOnTop put_bunTogether SIL #
+* SIL take_knife take_topping take_knife take_plate cut_bun smear_butter put_toppingOnTop SIL #
+* SIL cut_bun take_topping put_toppingOnTop put_bunTogether SIL #
+* SIL take_knife take_topping cut_bun smear_butter put_toppingOnTop SIL #
+* SIL cut_bun take_topping smear_butter put_toppingOnTop smear_butter put_toppingOnTop SIL #
+* SIL take_plate cut_bun take_knife smear_butter take_topping put_toppingOnTop put_bunTogether SIL #
+* SIL take_plate cut_bun smear_butter put_toppingOnTop smear_butter put_toppingOnTop SIL #
+* SIL cut_bun smear_butter take_topping put_toppingOnTop SIL #
+* SIL cut_bun smear_butter put_toppingOnTop SIL #
+* SIL cut_bun smear_butter take_topping put_toppingOnTop put_bunTogether SIL #
+* SIL cut_bun take_butter smear_butter take_topping put_toppingOnTop put_bunTogether SIL #
+* SIL cut_bun take_butter smear_butter put_toppingOnTop SIL #
+* SIL cut_bun smear_butter put_toppingOnTop put_bunTogether SIL #
+* SIL cut_bun take_plate smear_butter put_toppingOnTop SIL #
+* SIL cut_bun take_knife smear_butter put_toppingOnTop put_bunTogether SIL #
+* SIL cut_bun take_knife smear_butter put_toppingOnTop SIL #
+* SIL take_plate cut_bun smear_butter put_toppingOnTop SIL #
+* SIL cut_bun put_toppingOnTop put_bunTogether SIL #
+* SIL take_plate cut_bun smear_butter put_toppingOnTop put_bunTogether SIL #
